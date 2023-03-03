@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import React, { useState } from "react";
 
 export const StyledBackground = styled.section`
   margin: 10;
